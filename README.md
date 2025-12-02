@@ -11,7 +11,7 @@ To compile from source, you can use either:
 
 ---
 
-## Compiling the notes (Tectonic or Overleaf)
+## Compiling the notes
 
 **Local (Tectonic)**
 
