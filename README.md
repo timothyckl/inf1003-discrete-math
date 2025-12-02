@@ -60,7 +60,7 @@ Try to keep the preamble and formatting consistent so all tutorials look uniform
 
 ## Directory structure
 
-```text
+```bash
 .
 ├── pdf/   # Compiled notes (ready to read/print)
 │   ├── tutorial-1.pdf
